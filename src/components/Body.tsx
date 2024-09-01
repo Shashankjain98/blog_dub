@@ -26,7 +26,7 @@ export default function Body() {
                 </div>
 
                 <div className='m-2'>
-                    <h1 className='text-slate-500 md:text-xl text-lg'>Latest news and updates from Dub.co</h1>
+                    <h1 className='text-slate-500 md:text-xl text-lg'>Latest news and updates from Dub&rsquo;co</h1>
                 </div>
                 <div className="bg-white border rounded-full mt-4 p-2 inline-block md:block hidden flex items-center items-center w-[70%] max-w-5xl -ml-auto">
                     <ul className="flex flex-wrap md:space-x-2 md:p-1 justify-between items-center">
@@ -66,14 +66,14 @@ export default function Body() {
                 Introducing Dub Integrations
             </h2>
             <p className="mt-2 text-sm text-gray-500 line-clamp-2">
-                Today, we're excited to unveil a new way to extend Dub's functionality
-                with integrations. Get started with our flagship integrations, or build
-                your own.
+                Today&#39; we&apos;re excited to unveil a new way to extend Dub&apos;s functionality
+                with integrations&rsquo; Get started with our flagship integrations&#39; or build
+                your own&rsquo;
             </p>
             </div>
             <div className="mt-4 flex items-center space-x-2">
             <div className="flex items-center -space-x-2">
-                <img
+                <Image
                 src='/images/steventey.jpg'
                 alt="Steven Tey"
                 width={36}
@@ -83,7 +83,7 @@ export default function Body() {
                 className="rounded-full transition-all blur-0 group-hover:brightness-90"
                 style={{ color: "transparent" }}
                 />
-                <img
+                <Image
                 src='/images/tokirankrishnan.jpg'
                 alt="Kiran Krishnan"
                 width={36}
@@ -98,7 +98,7 @@ export default function Body() {
                 dateTime="2024-08-26" 
                 className="text-sm text-gray-500"
             >
-                August 26, 2024
+                August 26&#39; 2024
             </time>
             </div>
         </div>
@@ -109,7 +109,7 @@ export default function Body() {
         href="#"
         className="flex flex-col rounded-lg border border-gray-300 bg-white transition-transform hover:scale-100 hover:shadow-xl"
         >
-        <img
+        <Image
             src='/images/blog2.png'
             alt="Why you should always use a custom domain for your short links"
             width={1905}
@@ -124,13 +124,13 @@ export default function Body() {
                 Why you should always use a custom domain for your short links
             </h2>
             <p className="mt-2 line-clamp-2 text-sm text-gray-500">
-                Still using generic short domains like bit.ly? Learn why custom domains
-                are better for click-through rates, and how to choose one that best
-                reflects your brand.
+                Still using generic short domains like bit&rsquo;ly? Learn why custom domains
+                are better for click-through rates&#39; and how to choose one that best
+                reflects your brand&rsquo;
             </p>
             <div className="mt-4 flex items-center space-x-2">
             <div className="flex items-center">
-                <img
+                <Image
                 src='/images/steventey.jpg'
                 alt="Steven Tey"
                 width={36}
@@ -146,7 +146,7 @@ export default function Body() {
                 dateTime="2024-08-13" 
                 className="text-sm text-gray-500"
             >
-                August 13, 2024
+                August 13&#39; 2024
             </time>
             </div>
         </div>
@@ -157,7 +157,7 @@ export default function Body() {
         href="#"
         className="flex flex-col rounded-lg border border-gray-300 bg-white transition-transform hover:scale-100 hover:shadow-xl"
         >
-        <img
+        <Image
             src='/images/blog3.png'
             alt="Introducing Real-time Events Stream"
             width={1905}
@@ -172,12 +172,12 @@ export default function Body() {
                 Introducing Real-time Events Stream
             </h2>
             <p className="mt-2 line-clamp-2 text-sm text-gray-500">
-                Gain deeper insights into your clicks with a detailed, real-time stream
-                of events across your entire Dub workspace.
+                Gain deeper insights into your clicks with a detailed&#39; real-time stream
+                of events across your entire Dub workspace&rsquo;
             </p>
             <div className="mt-4 flex items-center space-x-2">
             <div className="flex items-center -space-x-2">
-                <img
+                <Image
                 src='/images/steventey.jpg'
                 alt="Steven Tey"
                 width={36}
@@ -188,7 +188,7 @@ export default function Body() {
                 style={{ color: "transparent" }}
                 />
 
-                <img
+                <Image
                 src='/images/actualTimWilson.jpg'
                 alt="Tim Wilson"
                 loading="lazy"
@@ -200,7 +200,7 @@ export default function Body() {
                 
                 />
 
-                <img
+                <Image
                 src='/images/tokirankrishnan.jpg'
                 alt="Kiran Krishnan"
                 width={36}
@@ -215,7 +215,7 @@ export default function Body() {
                 dateTime="2024-08-13" 
                 className="text-sm text-gray-500"
             >
-                August 1, 2024
+                August 1&#39; 2024
             </time>
             </div>
         </div>
@@ -242,12 +242,12 @@ export default function Body() {
                 Introducing the new Dub links dashboard
             </h2>
             <p className="mt-2 text-sm text-gray-500 line-clamp-2">
-                Today, we're launching our new links dashboard – redesigned from the ground up – to help you better manage your links.
+                Today&#39; we&apos;re launching our new links dashboard redesigned from the ground up to help you better manage your links&rsquo;
             </p>
             </div>
             <div className="mt-4 flex items-center space-x-2">
             <div className="flex items-center -space-x-2">
-                <img
+                <Image
                 src='/images/steventey.jpg'
                 alt="Steven Tey"
                 width={36}
@@ -257,7 +257,7 @@ export default function Body() {
                 className="rounded-full transition-all blur-0 group-hover:brightness-90"
                 style={{ color: "transparent" }}
                 />
-                <img
+                <Image
                 src='/images/actualTimWilson.jpg'
                 alt="Tim Wilson"
                 loading="lazy"
@@ -272,7 +272,7 @@ export default function Body() {
                 dateTime="2024-07-25" 
                 className="text-sm text-gray-500"
             >
-                July 25, 2024
+                July 25&#39; 2024
             </time>
             </div>
         </div>
