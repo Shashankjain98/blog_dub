@@ -12,10 +12,10 @@ export default function Footer() {
                 <span className="sr-only">Dub.co Logo</span>
                 <div className="max-w-fit">
                   <Image
-                    src="/images/icon.png"  // Use the path relative to the public folder
+                    src="/images/icon.png" 
                     alt="Dub.co Logo"
-                    width={32}  // Specify width according to your needs
-                    height={32} // Specify height according to your needs
+                    width={32} 
+                    height={32} 
                     className="w-auto dark:text-white h-8 text-gray-800"
                   />
                 </div>
@@ -342,12 +342,12 @@ export default function Footer() {
 
         <div className="relative w-full h-80 mx-auto border-b-0 bg-white/50 backdrop-blur-lg">
   <Image
-    src="/images/footer_1.jpg"  // Ensure this path is correct relative to the "public" directory
+    src="/images/footer_1.jpg"
     alt="Background"
     layout="fill"
     objectFit="cover"
     quality={75}
-    className="absolute inset-0" // Ensures the image takes up the entire container
+    className="absolute inset-0"
   /> 
 </div>
 
